@@ -1,5 +1,5 @@
 import { SessionProvider } from "next-auth/react"
-import "@/styles/globals.css";
+import "../../styles/globals.css";
 import type { AppProps } from "next/app";
 import {Header} from "../../src/components/header";
 
